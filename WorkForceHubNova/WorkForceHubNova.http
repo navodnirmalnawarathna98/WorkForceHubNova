@@ -1,0 +1,6 @@
+@WorkForceHubNova_HostAddress = http://localhost:5183
+
+GET {{WorkForceHubNova_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
